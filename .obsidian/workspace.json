@@ -11,12 +11,8 @@
             "id": "8ad1aff5b30d8df8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "For Better leaving Group.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "879e038eacf075e8",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For Better leaving Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "For Better leaving Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "For Better leaving Group.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +141,7 @@
   },
   "active": "8ad1aff5b30d8df8",
   "lastOpenFiles": [
+    "For Better leaving Group.md",
     "Cyclic Ether (epoxide).md",
     "images/Pasted image 20240811000129.png",
     "images/Pasted image 20240810234257.png",
@@ -176,7 +170,6 @@
     "Polar Aportic.md",
     "Anionic Rate.md",
     "Bad Leaving Group.md",
-    "For Better leaving Group.md",
     "Energy Profile of SN1.md",
     "On Reactant.md",
     "Dependency of Rate SN1.md",
