@@ -1,4 +1,4 @@
-Good polarzability -> Increase in Rate
+#### Good polarzability -> Increase in Rate
 
 if size is big then polarize will be good 
 
