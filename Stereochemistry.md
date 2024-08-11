@@ -1,0 +1,7 @@
+The SN2 reaction is stereospecific like other concerted reactions.. A stereospecific reaction is one in which different stereoisomers react to give different stereoisomers of the product. The nuclephile and electrophile must be correctly oriented for orbital overlap to occur and trigger chemical reactivity. Experimental observations show that all SN2 reactions proceed with inversion of configuration; that is, the nucleophile will always penetrate from the backside in SN2 reactions. To think about why this might be true, remember that the nucleophile has a lone pair of electrons to be shared with the electrophilic carbon center and the leaving group is going to take a lone pair of electrons with it upon leaving. Because like charges repel each other, the nucleophile will always proceed by a backside displacement mechanism.
+
+
+- **Frontside Orientation:** In a frontside orientation, the nucleophile approaches the electrophilic center on the same side as the leaving group. With frontside orientation, the stereochemistry of the product remains the same; that is, we have retention of configuration.
+- **Backside Orientation:** In a backside orientation, the nucleophile approachss the electrophilic center on the side that is opposite to the leaving group. With backside orientation, the stereochemistry of the product does not stay the same. There is inversion of configuration.
+
+![[20.png]]

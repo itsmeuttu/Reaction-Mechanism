@@ -1,0 +1,3 @@
+- [[Vacant d- orbital]] 
+- [[ Resonance ]] 
+

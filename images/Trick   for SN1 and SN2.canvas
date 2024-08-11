@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"70dc364762cdfec1","type":"text","text":"$1\\degree$ ","x":-432,"y":-86,"width":250,"height":60},
+		{"id":"1b1099dc62a6fa13","type":"text","text":"$2\\degree$ ","x":-140,"y":-86,"width":250,"height":60},
+		{"id":"77964dc326a65e7c","type":"text","text":"$3\\degree$","x":180,"y":-86,"width":250,"height":60},
+		{"id":"434adfb62708f102","type":"text","text":"SN 2","x":-433,"y":64,"width":250,"height":60},
+		{"id":"0d5d496e15f84838","type":"text","text":"SN 1","x":183,"y":75,"width":250,"height":60},
+		{"id":"a446d853c742f8f7","type":"text","text":"Check Solvent","x":-135,"y":181,"width":250,"height":60},
+		{"id":"94d5e5fb58f32d05","type":"text","text":"Polar Aportic","x":-420,"y":343,"width":250,"height":60},
+		{"id":"40b2fd497ba60ffa","type":"text","text":"Polar Protic","x":180,"y":343,"width":250,"height":60},
+		{"id":"b1534c4887906278","type":"text","text":"SN 2","x":-419,"y":495,"width":250,"height":60},
+		{"id":"79cea33ea960b1b7","type":"text","text":"SN 1","x":181,"y":482,"width":250,"height":60},
+		{"id":"b6f6766279be08d3","type":"text","text":"Solvent is not Mention ","x":-125,"y":640,"width":250,"height":60},
+		{"id":"2e8c300ea9cbe601","type":"text","text":"Naked ","x":-469,"y":904,"width":250,"height":60},
+		{"id":"f617937beb14dd9e","type":"text","text":"Covered","x":206,"y":897,"width":250,"height":60},
+		{"id":"d70d0aaf0a88b1d3","type":"text","text":"SN 2","x":-469,"y":1040,"width":250,"height":60},
+		{"id":"eaaf49f0680c3cef","type":"text","text":"SN 1","x":206,"y":1040,"width":250,"height":60},
+		{"id":"1d488f6c382803f7","type":"text","text":"  Check Degree","x":-135,"y":-280,"width":250,"height":60,"color":"1"},
+		{"id":"138809bacea3368e","type":"text","text":"Check Nucleiophile ","x":-125,"y":760,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"109c4a9650f7c453","fromNode":"1d488f6c382803f7","fromSide":"bottom","toNode":"70dc364762cdfec1","toSide":"top"},
+		{"id":"144d7453695b1a5d","fromNode":"1d488f6c382803f7","fromSide":"bottom","toNode":"1b1099dc62a6fa13","toSide":"top"},
+		{"id":"f71b7332a00d3b85","fromNode":"1d488f6c382803f7","fromSide":"bottom","toNode":"77964dc326a65e7c","toSide":"top"},
+		{"id":"c63a929d65a6a781","fromNode":"70dc364762cdfec1","fromSide":"bottom","toNode":"434adfb62708f102","toSide":"top"},
+		{"id":"308c8f49f4714509","fromNode":"77964dc326a65e7c","fromSide":"bottom","toNode":"0d5d496e15f84838","toSide":"top"},
+		{"id":"2bad1fb79c45db2e","fromNode":"1b1099dc62a6fa13","fromSide":"bottom","toNode":"a446d853c742f8f7","toSide":"top"},
+		{"id":"dab27b87d4a84f3d","fromNode":"a446d853c742f8f7","fromSide":"bottom","toNode":"94d5e5fb58f32d05","toSide":"top"},
+		{"id":"868ee1a2ed864d5b","fromNode":"a446d853c742f8f7","fromSide":"bottom","toNode":"40b2fd497ba60ffa","toSide":"top"},
+		{"id":"efe587dfe18a8074","fromNode":"94d5e5fb58f32d05","fromSide":"bottom","toNode":"b1534c4887906278","toSide":"top"},
+		{"id":"014d940cf3080476","fromNode":"40b2fd497ba60ffa","fromSide":"bottom","toNode":"79cea33ea960b1b7","toSide":"top"},
+		{"id":"0da6afd8a4bb7938","fromNode":"a446d853c742f8f7","fromSide":"bottom","toNode":"b6f6766279be08d3","toSide":"top"},
+		{"id":"45605533333533bf","fromNode":"b6f6766279be08d3","fromSide":"bottom","toNode":"138809bacea3368e","toSide":"top"},
+		{"id":"086f77ab33d6e856","fromNode":"138809bacea3368e","fromSide":"bottom","toNode":"2e8c300ea9cbe601","toSide":"top"},
+		{"id":"ceb62cb1bb0a5a96","fromNode":"138809bacea3368e","fromSide":"bottom","toNode":"f617937beb14dd9e","toSide":"top"},
+		{"id":"65d946c0caee8ef8","fromNode":"2e8c300ea9cbe601","fromSide":"bottom","toNode":"d70d0aaf0a88b1d3","toSide":"top"},
+		{"id":"c4b2823739181807","fromNode":"f617937beb14dd9e","fromSide":"bottom","toNode":"eaaf49f0680c3cef","toSide":"top"}
+	]
+}

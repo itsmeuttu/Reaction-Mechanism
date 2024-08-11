@@ -1,0 +1,1 @@
+Non-polar solvents are solvents with molecules that have no significant dipole moment, meaning they do not have distinct positive and negative charges. They are effective at dissolving non-polar substances and compounds that are covalently bonded. Examples include hexane, benzene, and toluene.
