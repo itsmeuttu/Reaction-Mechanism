@@ -11,8 +11,12 @@
             "id": "8ad1aff5b30d8df8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SN1.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "879e038eacf075e8",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SN1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SN1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SN1.md"
+              }
             }
           }
         ]
@@ -142,6 +149,8 @@
   "active": "8ad1aff5b30d8df8",
   "lastOpenFiles": [
     "For Better leaving Group.md",
+    "Mitsonubo Reaction.md",
+    "index.md",
     "Cyclic Ether (epoxide).md",
     "images/Pasted image 20240811000129.png",
     "images/Pasted image 20240810234257.png",
@@ -152,7 +161,6 @@
     "Nucleiphic SN on saturated Carbon.md",
     "Ether.md",
     "images/Trick   for SN1 and SN2.canvas",
-    "Mitsonubo Reaction.md",
     "images/Pasted image 20240810230555.png",
     "images/Pasted image 20240810230155.png",
     "images/40.png",
@@ -160,7 +168,6 @@
     "images/38.png",
     "images/37.png",
     "images/35.png",
-    "index.md",
     "Good Leaving Group.md",
     "OMs.md",
     "SN1 reaction Rearrangement.md",
