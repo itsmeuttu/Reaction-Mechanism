@@ -16,3 +16,20 @@
 ![[Pasted image 20240815194544.png]]
 
 ![[Pasted image 20240815195126.png]]   
+
+### Kuch Ratne wale chize 
+
+
+![[Pasted image 20240816210631.png]]
+
+![[Pasted image 20240816210933.png]]
+
+
+>  In SNGP -> Retantion configuration 
+
+
+###  - [[SNGP in Ether ]]
+
+### - [[NGP by Aromatic Ring]]
+### - [[NGP of  pi Bond ]]
+

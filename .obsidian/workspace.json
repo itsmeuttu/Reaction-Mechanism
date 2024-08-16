@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ring formation on SNgp.md",
+                "file": "SNi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 265.5
   },
   "right": {
     "id": "879e038eacf075e8",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ring formation on SNgp.md",
+                "file": "SNi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ring formation on SNgp.md"
+                "file": "SNi.md"
               }
             }
           }
@@ -148,26 +148,30 @@
   },
   "active": "f9f86d97a9c12337",
   "lastOpenFiles": [
-    "images/Pasted image 20240815195126.png",
-    "images/Pasted image 20240815194544.png",
-    "images/Pasted image 20240815103643.png",
-    "images/Pasted image 20240815102416.png",
-    "images/Pasted image 20240815100432.png",
-    "images/Pasted image 20240815100141.png",
-    "images/Pasted image 20240815095947.png",
-    "SNgp.md",
+    "images/Pasted image 20240816215909.png",
+    "images/Pasted image 20240816215535.png",
+    "Nucleiphic SN on saturated Carbon.md",
+    "SNi.md",
+    "NGP of  pi Bond.md",
+    "images/Pasted image 20240816214744.png",
+    "images/Pasted image 20240816214528.png",
     "Ring formation on SNgp.md",
-    "images/Pasted image 20240815095508.png",
-    "images/Pasted image 20240815095254.png",
-    "images/Pasted image 20240815094920.png",
-    "images/Pasted image 20240815093643.png",
+    "NGP by Aromatic Ring.md",
+    "images/Pasted image 20240816213724.png",
+    "images/Pasted image 20240816212932.png",
+    "images/Pasted image 20240816212617.png",
+    "SNGP in Ether.md",
+    "images/Pasted image 20240816212424.png",
+    "images/Pasted image 20240816211914.png",
+    "images/Pasted image 20240816211348.png",
+    "images/Pasted image 20240816211339.png",
+    "SNgp.md",
     "Electronegativity.md",
     "For Better leaving Group.md",
     "SN1.md",
     "Stereochemistry of SN1.md",
     "Dependency of Rate SN1.md",
     "Energy Profile of SN1.md",
-    "Nucleiphic SN on saturated Carbon.md",
     "index.md",
     "Solvents.md",
     "Polar Solvents.md",
@@ -180,10 +184,6 @@
     "Good Leaving Group.md",
     "Question of the Day.md",
     "Untitled.md",
-    "Question of the Day 1.md",
-    "Reactant.md",
-    "Reaction of SN1.md",
-    "Payne Rearrangement.md",
     "Untitled.canvas",
     "1.canvas",
     "images/Trick   for SN1 and SN2.canvas",
