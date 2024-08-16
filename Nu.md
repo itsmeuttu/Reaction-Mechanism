@@ -5,3 +5,6 @@ Rate : Strong Nu >> Weak Nu
 ![[6.png]]
 
 - [[Anionic Rate]] 
+
+
+

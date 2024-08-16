@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SN1.md",
-                "mode": "preview",
+                "file": "SNgp.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9f86d97a9c12337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ring formation on SNgp.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,29 +95,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afdbb4478898afa7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "SN1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "2d8c0d771a907cef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SN1.md",
+                "file": "Ring formation on SNgp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SN1.md"
+                "file": "Ring formation on SNgp.md"
               }
             }
           }
@@ -143,50 +141,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ad1aff5b30d8df8",
+  "active": "f9f86d97a9c12337",
   "lastOpenFiles": [
+    "images/Pasted image 20240815195126.png",
+    "images/Pasted image 20240815194544.png",
+    "images/Pasted image 20240815103643.png",
+    "images/Pasted image 20240815102416.png",
+    "images/Pasted image 20240815100432.png",
+    "images/Pasted image 20240815100141.png",
+    "images/Pasted image 20240815095947.png",
+    "SNgp.md",
+    "Ring formation on SNgp.md",
+    "images/Pasted image 20240815095508.png",
+    "images/Pasted image 20240815095254.png",
+    "images/Pasted image 20240815094920.png",
+    "images/Pasted image 20240815093643.png",
+    "Electronegativity.md",
     "For Better leaving Group.md",
-    "Mitsonubo Reaction.md",
-    "index.md",
-    "Cyclic Ether (epoxide).md",
-    "images/Pasted image 20240811000129.png",
-    "images/Pasted image 20240810234257.png",
-    "1.canvas",
-    "images/Cyclic ether.png",
-    "Reaction of SN1.md",
     "SN1.md",
-    "Nucleiphic SN on saturated Carbon.md",
-    "Ether.md",
-    "images/Trick   for SN1 and SN2.canvas",
-    "images/Pasted image 20240810230555.png",
-    "images/Pasted image 20240810230155.png",
-    "images/40.png",
-    "images/39.png",
-    "images/38.png",
-    "images/37.png",
-    "images/35.png",
-    "Good Leaving Group.md",
-    "OMs.md",
-    "SN1 reaction Rearrangement.md",
-    "images/Reaction Mechanism.pdf",
-    "image",
-    "SN2.md",
-    "Polar Aportic.md",
-    "Anionic Rate.md",
-    "Bad Leaving Group.md",
-    "Energy Profile of SN1.md",
-    "On Reactant.md",
+    "Stereochemistry of SN1.md",
     "Dependency of Rate SN1.md",
-    "Effect of Solvent.md",
-    "Dependency of Rate.md",
-    "Energy Profile.md",
+    "Energy Profile of SN1.md",
+    "Nucleiphic SN on saturated Carbon.md",
+    "index.md",
     "Solvents.md",
     "Polar Solvents.md",
+    "Polar Aportic.md",
+    "Polar Protic.md",
+    "Non- Polar Solvents.md",
     "Nucleophile.md",
     "Leaving Group.md",
+    "Bad Leaving Group.md",
+    "Good Leaving Group.md",
+    "Question of the Day.md",
+    "Untitled.md",
+    "Question of the Day 1.md",
+    "Reactant.md",
+    "Reaction of SN1.md",
+    "Payne Rearrangement.md",
+    "Untitled.canvas",
+    "1.canvas",
+    "images/Trick   for SN1 and SN2.canvas",
+    "images/Reaction Mechanism.pdf",
+    "image",
     "obsidian.css"
   ]
 }

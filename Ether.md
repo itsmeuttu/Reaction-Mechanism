@@ -12,7 +12,7 @@ so this is not possible  mechanism, For making it possible we need Acids
 
 <br>
 
-<div style="background-color: #023047; padding: 20px; box-shadow: 1px 1px 20px  #8ecae6; color: white; border-radius: 5px; font-size: 24px; font-wieght: bold;">
+<div style="background-color: #023047; padding: 20px; box-shadow: 1px 1px 20px  #8ecae6; color: white; border-radius: 5px; font-size: 20px; font-wieght: bold; font-family:monospace;">
     If carbocation  is not stable, then attack on the less hindered site.
 </div>
 

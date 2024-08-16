@@ -1,7 +1,8 @@
 {
   "enabledCssSnippets": [
     "obsidian",
-    "quotes"
+    "quotes",
+    "blockquotes"
   ],
   "cssTheme": "Prism"
 }

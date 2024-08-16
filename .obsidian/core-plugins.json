@@ -3,7 +3,6 @@
   "global-search",
   "switcher",
   "graph",
-  "backlink",
   "canvas",
   "outgoing-link",
   "tag-pane",
@@ -14,7 +13,8 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+  "random-note",
   "outline",
-  "word-count",
+  "audio-recorder",
   "file-recovery"
 ]
