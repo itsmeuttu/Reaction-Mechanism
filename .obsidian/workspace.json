@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SNi.md",
+                "file": "Steroselcitvity of E1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 266.5
   },
   "right": {
     "id": "879e038eacf075e8",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SNi.md",
+                "file": "Steroselcitvity of E1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SNi.md"
+                "file": "Steroselcitvity of E1.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "f9f86d97a9c12337",
   "lastOpenFiles": [
-    "images/Pasted image 20240816215909.png",
-    "images/Pasted image 20240816215535.png",
-    "Nucleiphic SN on saturated Carbon.md",
+    "images/Pasted image 20240818133937.png",
+    "E1 Elimination.md",
+    "Steroselcitvity of E1.md",
+    "Regioseltivity of E1.md",
+    "images/Pasted image 20240818133746.png",
+    "images/Pasted image 20240818133359.png",
+    "Elimination Reaction.md",
+    "E2 elimination at Csp2 centre.md",
+    "images/Pasted image 20240818131404.png",
+    "Beta elimination without H as LG.md",
+    "E2 Elimnination.md",
+    "Leaving group as Si compound.md",
+    "images/Pasted image 20240818130910.png",
+    "De halogenation.md",
+    "images/Pasted image 20240818125929.png",
+    "images/Pasted image 20240818124204.png",
+    "Stereochemisty of E2.md",
+    "Nature of Base.md",
+    "On the Basis of Leaving group.md",
+    "Hoffmann Elimination reaction.md",
+    "images/Pasted image 20240818110952.png",
+    "images/Pasted image 20240818110342.png",
+    "images/Pasted image 20240817080714.png",
+    "images/Pasted image 20240817075854.png",
+    "Regioseletivety of E2.md",
+    "index.md",
     "SNi.md",
+    "Nucleiphic SN on saturated Carbon.md",
     "NGP of  pi Bond.md",
-    "images/Pasted image 20240816214744.png",
-    "images/Pasted image 20240816214528.png",
     "Ring formation on SNgp.md",
     "NGP by Aromatic Ring.md",
-    "images/Pasted image 20240816213724.png",
-    "images/Pasted image 20240816212932.png",
-    "images/Pasted image 20240816212617.png",
     "SNGP in Ether.md",
-    "images/Pasted image 20240816212424.png",
-    "images/Pasted image 20240816211914.png",
-    "images/Pasted image 20240816211348.png",
-    "images/Pasted image 20240816211339.png",
     "SNgp.md",
     "Electronegativity.md",
     "For Better leaving Group.md",
     "SN1.md",
-    "Stereochemistry of SN1.md",
-    "Dependency of Rate SN1.md",
-    "Energy Profile of SN1.md",
-    "index.md",
-    "Solvents.md",
-    "Polar Solvents.md",
-    "Polar Aportic.md",
-    "Polar Protic.md",
-    "Non- Polar Solvents.md",
-    "Nucleophile.md",
-    "Leaving Group.md",
-    "Bad Leaving Group.md",
-    "Good Leaving Group.md",
-    "Question of the Day.md",
-    "Untitled.md",
     "Untitled.canvas",
     "1.canvas",
     "images/Trick   for SN1 and SN2.canvas",

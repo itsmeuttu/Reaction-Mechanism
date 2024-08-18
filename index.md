@@ -11,4 +11,8 @@ title: Content
 
 ### [[Nucleiphic SN on saturated Carbon]]
 
+### [[Elimination Reaction]]
+
+
+
  
